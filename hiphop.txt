@@ -1,2 +1,4 @@
 jump withme hiphop
-squad it from local
+
+squad it from local and from git
+
